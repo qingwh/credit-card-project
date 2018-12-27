@@ -1,4 +1,4 @@
-# credit-card-project
+# Credit card default identification
 
 Since there was an increase in the number of customers who have defaulted on loans in Credit One company over the past year or so,
 I performed exploratory data analysis in Python (Seaborn, Matplotlib) to help the company to gain insight into what factors affected default rate. I also applied Logistic Regression, Stochastic Gradient Boosting, KNN, Decision Trees, Support Vector Machine and Random Forest models to predict customer Default with impressive accuracy.
